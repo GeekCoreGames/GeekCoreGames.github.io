@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #000000;
+  color: #eee;
+  text-align: center;
+  padding-top: 10%;
+}
+.tagline h1 {
+  color: #39ff14;
+}
+.tagline p {
+  color: #f39;
+}
+
+.tagline {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.logo {
+  height: 250px;
+  width: 250px;
+  overflow: hidden;
+}
+
+.logo img {
+  max-width: 100%;
+  max-height: 100%;
+  height: auto;
+  width: auto;
+  display: block;
+  margin: auto;
+}
