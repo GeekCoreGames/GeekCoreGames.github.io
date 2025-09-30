@@ -3,13 +3,13 @@ body {
   background: #000000;
   color: #eee;
   text-align: center;
-  padding-top: 10%;
+  padding-top: 3%;
 }
 .tagline h1 {
-  color: #39ff14;
+  color: #3b7d2f;
 }
 .tagline p {
-  color: #f39;
+  color: rgb(170, 121, 23);
 }
 
 .tagline {
